@@ -1,4 +1,3 @@
-
 #!/usr/bin/python
 
-print("Helloworld")
+echo 'Helloworld'
